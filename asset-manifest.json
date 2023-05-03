@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/twl2023_2100016088_prak4/static/css/main.7adbd0d5.css",
+    "main.js": "/twl2023_2100016088_prak4/static/js/main.4c83056b.js",
+    "static/js/787.545d0430.chunk.js": "/twl2023_2100016088_prak4/static/js/787.545d0430.chunk.js",
+    "index.html": "/twl2023_2100016088_prak4/index.html",
+    "main.7adbd0d5.css.map": "/twl2023_2100016088_prak4/static/css/main.7adbd0d5.css.map",
+    "main.4c83056b.js.map": "/twl2023_2100016088_prak4/static/js/main.4c83056b.js.map",
+    "787.545d0430.chunk.js.map": "/twl2023_2100016088_prak4/static/js/787.545d0430.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7adbd0d5.css",
+    "static/js/main.4c83056b.js"
+  ]
+}
